@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:2DD4A6&height=180&section=header&text=Vishal%20Tiwari&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=CSE%20Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20AI%20Enthusiast&descSize=16&descAlignY=60" width="100%" alt="header" />
+<img src="header.svg" width="100%" alt="Vishal Tiwari" />
 
 <a href="https://github.com/Vishal0247">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=2DD4A6&center=true&vCenter=true&width=620&height=45&lines=Hey+there%2C+I'm+Vishal+%F0%9F%91%8B;Full-stack+developer+%F0%9F%9A%80;React+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;AWS+%C2%B7+Docker+%C2%B7+Terraform;Open+to+SDE+internships" alt="typing" />
@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="assets/coder.svg" alt="coding robot" />
+<img align="right" width="340" src="coder.svg" alt="coding robot" />
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at Lovely Professional University, 5th Semester
 - 💻 Solo **full-stack developer**, building projects and hackathon submissions end to end
@@ -113,6 +113,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishal0247&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=2DD4A6&icon_color=E8A94C&text_color=C9D1D9&ring_color=2DD4A6&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal0247&layout=compact&hide_border=true&bg_color=0A0E14&title_color=2DD4A6&text_color=C9D1D9&langs_count=8" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Vishal0247&hide_border=true&background=0A0E14&ring=2DD4A6&fire=E8A94C&currStreakLabel=2DD4A6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="streak" />
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishal0247/Vishal0247/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishal0247/Vishal0247/output/github-snake.svg" />
@@ -140,4 +153,4 @@ Got a project idea, want to collaborate, or just want to say hi? I'm always up f
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4A6,100:0A0E14&height=100&section=footer" width="100%" alt="footer" />
+<img src="footer.svg" width="100%" alt="footer" />
