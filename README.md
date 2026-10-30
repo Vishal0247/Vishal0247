@@ -113,19 +113,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishal0247&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=2DD4A6&icon_color=E8A94C&text_color=C9D1D9&ring_color=2DD4A6&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal0247&layout=compact&hide_border=true&bg_color=0A0E14&title_color=2DD4A6&text_color=C9D1D9&langs_count=8" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Vishal0247&hide_border=true&background=0A0E14&ring=2DD4A6&fire=E8A94C&currStreakLabel=2DD4A6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="streak" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishal0247/Vishal0247/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishal0247/Vishal0247/output/github-snake.svg" />
